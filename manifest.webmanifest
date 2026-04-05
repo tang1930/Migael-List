@@ -1,0 +1,24 @@
+{
+  "name": "미가엘 복음성가",
+  "short_name": "미가엘",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f2eb",
+  "theme_color": "#1e5c0e",
+  "description": "미가엘 복음성가 검색 앱",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
